@@ -3,11 +3,11 @@
 A curated list of awesome QR code libraries, software and resources.
 
 - [Awesome QR code](#awesome-qr-code)
-    - [React](#react)
+    - [Apps](#apps)
     - [CLI](#cli)
     - [Libraries](#libraries)
-    - [Formats](#formats)
 - [Resources](#resources)
+    - [Formats](#formats)
     - [Wikipedia](#wikipedia)
 - [Contributing](#contributing)
 
