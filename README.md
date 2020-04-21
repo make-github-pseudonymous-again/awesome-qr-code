@@ -13,9 +13,16 @@ A curated list of awesome QR code libraries, software and resources.
 
 ---
 
-## React
+## Apps
 
-  - [qrcode.react](https://github.com/zpao/qrcode.react)
+### Readers
+
+  - [Web App](https://github.com/code-kotis/qr-code-scanner)
+
+### File Transfer
+
+  - [qrcp](https://github.com/claudiodangelis/qrcp)
+  - [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer)
 
 ## CLI
 
@@ -25,14 +32,78 @@ A curated list of awesome QR code libraries, software and resources.
 
 ## Libraries
 
+### Readers
+
+#### JavaScript
+
+  - [instascan](https://github.com/schmich/instascan)
+
+#### TypeScript
+
+  - [jsQR](https://github.com/cozmo/jsQR)
+
+#### React Native
+
+  - [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner)
+
+#### Vue
+
+  - [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader)
+
+#### Objective-C
+
+  - [SGQRCode](https://github.com/kingsic/SGQRCode)
+
+#### PHP
+
+  - [php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder)
+
+### Generators
+
+#### C
+
   - [libqrencode](https://github.com/fukuchi/libqrencode)
+
+#### JavaScript
+
+  - [qrious](https://github.com/neocotic/qrious)
+
+#### React
+
+  - [qrcode.react](https://github.com/zpao/qrcode.react)
+
+#### Python
+
+  - [artistic QR Code in Python](https://github.com/sylnsfar/qrcode)
+
+#### Java
+
+  - [Qart](https://github.com/scola/Qart)
+
+#### Swift
+
+  - [EFQRCode](https://github.com/EFPrefix/EFQRCode)
+
+#### Android
+
+  - [BGAQRCode-Android (C)](https://github.com/bingoogolapple/BGAQRCode-Android)
+  - [AwesomeQRCode (Kotlin)](https://github.com/SumiMakito/AwesomeQRCode)
+
+#### C\#
+
+  - [QRCoder](https://github.com/codebude/QRCoder)
+
+#### PHP
+
+  - [simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode)
+  - [endroid/qr-code](https://github.com/endroid/qr-code)
+  - [BaconQrCode](https://github.com/Bacon/BaconQrCode)
+
+# Resources
 
 ## Formats
 
   - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents)
-
-
-# Resources
 
 ## Wikipedia
 
@@ -41,6 +112,7 @@ A curated list of awesome QR code libraries, software and resources.
 > automotive industry in Japan.
 >
 > *Wikipedia* ~ https://en.wikipedia.org/wiki/QR_code
+
 
 # Contributing
 
