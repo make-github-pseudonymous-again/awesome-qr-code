@@ -63,10 +63,16 @@ A curated list of awesome QR code libraries, software and resources.
 #### C
 
   - [libqrencode](https://github.com/fukuchi/libqrencode)
+  - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
+
+#### C++
+
+  - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
 
 #### JavaScript
 
   - [qrious](https://github.com/neocotic/qrious)
+  - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
 
 #### React
 
@@ -75,10 +81,16 @@ A curated list of awesome QR code libraries, software and resources.
 #### Python
 
   - [artistic QR Code in Python](https://github.com/sylnsfar/qrcode)
+  - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
 
 #### Java
 
   - [Qart](https://github.com/scola/Qart)
+  - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
+
+#### Rust
+
+  - [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
 
 #### Swift
 
