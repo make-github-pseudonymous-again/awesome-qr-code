@@ -1,0 +1,24 @@
+{
+  "name": "awesome-qr-code",
+  "description": "A curated list of awesome QR code libraries, software and resources.",
+  "version": "1.0.0",
+  "author": "Aurélien Ooms <aurelien.ooms@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/aureooms/awesome-qr-code/issues"
+  },
+  "devDependencies": {
+    "awesome-lint": "^0.15.1"
+  },
+  "homepage": "https://github.com/aureooms/awesome-qr-code#readme",
+  "license": "CC-BY-SA-4.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aureooms/awesome-qr-code.git"
+  },
+  "scripts": {
+    "lint": "awesome-lint",
+    "test": "npm run lint",
+    "travis": "npm run lint"
+  }
+}
