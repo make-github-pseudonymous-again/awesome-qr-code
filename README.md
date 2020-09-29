@@ -17,18 +17,18 @@ A curated list of awesome QR code libraries, software and resources.
 
 ### Readers
 
-- [Web App](https://github.com/code-kotis/qr-code-scanner)
+- [Web App](https://github.com/code-kotis/qr-code-scanner) - A progressive web application to scan QR codes.
 
 ### File Transfer
 
-- [qrcp](https://github.com/claudiodangelis/qrcp)
-- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer)
+- [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
+- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal.
 
 ## CLI
 
-- [qrencode](https://fukuchi.org/works/qrencode)
-- [qrap](https://github.com/aureooms/qrap)
-- [spqr](https://github.com/aureooms/spqr)
+- [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
+- [qrap](https://github.com/aureooms/qrap) - Generate a QR code payload for WiFi access point credentials.
+- [spqr](https://github.com/aureooms/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 
 ## Libraries
 
@@ -36,78 +36,82 @@ A curated list of awesome QR code libraries, software and resources.
 
 #### JavaScript
 
-- [instascan](https://github.com/schmich/instascan)
+- [instascan](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam.
 
 #### TypeScript
 
-- [jsQR](https://github.com/cozmo/jsQR)
+- [jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library.
 
 #### React Native
 
-- [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner)
+- [react-native-qrcode-scanner](https://github.com/moaazsidat/react-native-qrcode-scanner) - A QR code scanner component for React Native.
 
 #### Vue
 
-- [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader)
+- [vue-qrcode-reader](https://github.com/gruhn/vue-qrcode-reader) - A set of Vue.js components for detecting and decoding QR codes.
 
 #### Objective-C
 
-- [SGQRCode](https://github.com/kingsic/SGQRCode)
+- [SGQRCode](https://github.com/kingsic/SGQRCode) - Easy to use QRCode scan library for iOS.
+
+#### Android
+
+- [BGAQRCode-Android (C)](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode reader and generator.
 
 #### PHP
 
-- [php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder)
+- [php-qrcode-detector-decoder](https://github.com/khanamiryan/php-qrcode-detector-decoder) - PHP library to detect and decode QR-codes.
 
 ### Generators
 
 #### C
 
-- [libqrencode](https://github.com/fukuchi/libqrencode)
+- [libqrencode](https://github.com/fukuchi/libqrencode) - A fast and compact library for encoding data in a QR Code symbol.
 
 #### C, C++, JavaScript, Python, Java, Rust
 
-- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator)
+- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust. 
 
 #### JavaScript
 
-- [qrious](https://github.com/neocotic/qrious)
+- [qrious](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas.
 
 #### React
 
-- [qrcode.react](https://github.com/zpao/qrcode.react)
+- [qrcode.react](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React.
 
 #### Python
 
-- [artistic QR Code in Python](https://github.com/sylnsfar/qrcode)
+- [artistic QR Code in Python](https://github.com/sylnsfar/qrcode) - Artistic QR Code in Python (can produce GIFs).
 
 #### Java
 
-- [Qart](https://github.com/scola/Qart)
+- [Qart](https://github.com/scola/Qart) - An app to merge a picture and a QR code.
 
 #### Swift
 
-- [EFQRCode](https://github.com/EFPrefix/EFQRCode)
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS. 
 
 #### Android
 
-- [BGAQRCode-Android (C)](https://github.com/bingoogolapple/BGAQRCode-Android)
-- [AwesomeQRCode (Kotlin)](https://github.com/SumiMakito/AwesomeQRCode)
+- [BGAQRCode-Android (C)](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode reader and generator.
+- [AwesomeQRCode (Kotlin)](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android (can produce GIFs).
 
 #### C\#
 
-- [QRCoder](https://github.com/codebude/QRCoder)
+- [QRCoder](https://github.com/codebude/QRCoder) - A pure C# Open Source QR Code implementation.
 
 #### PHP
 
-- [simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode)
-- [endroid/qr-code](https://github.com/endroid/qr-code)
-- [BaconQrCode](https://github.com/Bacon/BaconQrCode)
+- [simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) -  An easy-to-use PHP QrCode generator. 
+- [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator.
+- [BaconQrCode](https://github.com/Bacon/BaconQrCode) - QR Code Generator for PHP.
 
 ## Resources
 
 ### Formats
 
-- [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents)
+- [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
 
 ### Wikipedia
 
