@@ -40,7 +40,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 #### TypeScript
 
-- [jsQR](https://github.com/cozmo/jsQR) - A pure javascript QR code reading library.
+- [jsQR](https://github.com/cozmo/jsQR) - A pure JavaScript QR code reading library.
 
 #### React Native
 
@@ -70,7 +70,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 #### C, C++, JavaScript, Python, Java, Rust
 
-- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust. 
+- [QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.
 
 #### JavaScript
 
@@ -90,11 +90,12 @@ A curated list of awesome QR code libraries, software and resources.
 
 #### Swift
 
-- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS. 
+- [EFQRCode](https://github.com/EFPrefix/EFQRCode) - A better way to operate QR Code in Swift, support iOS, macOS, watchOS and tvOS.
 
 #### Android
 
-- [BGAQRCode-Android (C)](https://github.com/bingoogolapple/BGAQRCode-Android) - QRCode reader and generator.
+See also [the list of Android readers](#android) above.
+
 - [AwesomeQRCode (Kotlin)](https://github.com/SumiMakito/AwesomeQRCode) - An awesome QR code generator for Android (can produce GIFs).
 
 #### C\#
@@ -103,7 +104,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 #### PHP
 
-- [simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) -  An easy-to-use PHP QrCode generator. 
+- [simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) -  An easy-to-use PHP QrCode generator.
 - [endroid/qr-code](https://github.com/endroid/qr-code) - QR Code Generator.
 - [BaconQrCode](https://github.com/Bacon/BaconQrCode) - QR Code Generator for PHP.
 
