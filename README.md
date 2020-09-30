@@ -82,7 +82,7 @@ A curated list of awesome QR code libraries, software and resources.
 
 #### Python
 
-- [artistic QR code in Python](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
+- [sylnsfar/qrcode](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
 
 #### Java
 
