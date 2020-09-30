@@ -22,12 +22,12 @@ A curated list of awesome QR code libraries, software and resources.
 ### File Transfer
 
 - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
-- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over WiFi between your computer and your smartphone from the terminal.
+- [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
 ## CLI
 
 - [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
-- [qrap](https://github.com/aureooms/qrap) - Generate a QR code payload for WiFi access point credentials.
+- [qrap](https://github.com/aureooms/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
 - [spqr](https://github.com/aureooms/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 
 ## Libraries
