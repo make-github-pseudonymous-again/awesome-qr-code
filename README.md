@@ -4,14 +4,17 @@
 
 A curated list of awesome QR code libraries, software and resources.
 
+> QR code (abbreviated from Quick Response code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.
+>
+> *Wikipedia* ~ https://en.wikipedia.org/wiki/QR_code
+
+
 ## Contents
 
 - [Apps](#apps)
 - [CLI](#cli)
 - [Libraries](#libraries)
 - [Resources](#resources)
-  - [Formats](#formats)
-  - [Wikipedia](#wikipedia)
 
 ---
 
@@ -112,15 +115,7 @@ See also [the list of Android readers](#android) above.
 
 ## Resources
 
-### Formats
-
 - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
-
-### Wikipedia
-
-> QR code (abbreviated from Quick Response code) is the trademark for a type of matrix barcode (or two-dimensional barcode) first designed in 1994 for the automotive industry in Japan.
->
-> *Wikipedia* ~ https://en.wikipedia.org/wiki/QR_code
 
 
 ## Contributing
