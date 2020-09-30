@@ -1,5 +1,7 @@
 # Awesome QR Code [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[<img src="repo-link.svg" align="right" width="100">](https://github.com/aureooms/awesome-qr-code#readme)
+
 A curated list of awesome QR code libraries, software and resources.
 
 ## Contents
