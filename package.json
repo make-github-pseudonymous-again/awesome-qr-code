@@ -7,7 +7,7 @@
     "url": "https://github.com/aureooms/awesome-qr-code/issues"
   },
   "devDependencies": {
-    "awesome-lint": "^0.15.1"
+    "awesome-lint": "^0.17.1"
   },
   "homepage": "https://github.com/aureooms/awesome-qr-code#readme",
   "license": "CC-BY-SA-4.0",
