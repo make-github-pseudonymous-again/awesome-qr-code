@@ -3,7 +3,7 @@
 Your contributions are always welcome!
 
 I will keep some pull requests open if I'm not sure whether those libraries are
-awesome. You can [vote for them](https://github.com/aureooms/awesome-qr-code/pulls) by reacting with :+1:. Pull requests will be merged when their vote reaches **5**.
+awesome. You can [vote for them](https://github.com/make-github-pseudonymous-again/awesome-qr-code/pulls) by reacting with :+1:. Pull requests will be merged when their vote reaches **5**.
 
 ## Guidelines
 
