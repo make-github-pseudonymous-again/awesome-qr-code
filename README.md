@@ -80,7 +80,7 @@ that the library allows to generate QR codes.
 - [sylnsfar/qrcode `W`](https://github.com/sylnsfar/qrcode) - Artistic QR code in Python (can produce GIFs).
 
 ### Ruby
-- [rqrcode `W`](https://github.com/whomwah/rqrcode) - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, colour and other attributes.
+- [rqrcode `W`](https://github.com/whomwah/rqrcode) - A neat Ruby QR code generator exporting to `svg`, `png` and `ansi` with configurable size, color and other attributes.
 
 ### Objective-C
 
