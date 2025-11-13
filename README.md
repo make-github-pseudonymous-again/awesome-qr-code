@@ -58,6 +58,7 @@ that the library allows to generate QR codes.
 
 - [instascan `R`](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam.
 - [qrious `W`](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas.
+- [qrcodejs `W`](https://github.com/locandy/qrcodejs) - Pure Javascript, dependency-free generator including SVG and PNG rendering.
 
 ### TypeScript
 
