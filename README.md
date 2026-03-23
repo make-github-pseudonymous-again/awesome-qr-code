@@ -107,6 +107,10 @@ that the library allows to generate QR codes.
 - [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) - QR code generator for PHP.
 
 
+## API
+
+- [SnapAPI `W`](https://api-snap.com/docs) - REST API for generating QR codes from text, URLs, or arbitrary data. Returns PNG images. Part of a bundled utility API service.
+
 ## Resources
 
 - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
