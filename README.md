@@ -14,6 +14,7 @@ A curated list of awesome QR code libraries, software and resources.
 - [Apps](#apps)
 - [CLI](#cli)
 - [Libraries](#libraries)
+- [Services](#services)
 - [Resources](#resources)
 
 ---
@@ -107,6 +108,9 @@ that the library allows to generate QR codes.
 - [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) - QR code generator for PHP.
 
 
+## Services
+
+- [SnapQR `W`](https://api-snap.com/snapqr) - Trackable QR codes with scan analytics. One API call returns a QR image, short link, and real-time stats dashboard with device, browser, country, and referrer data.
 ## Resources
 
 - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
