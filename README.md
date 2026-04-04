@@ -107,6 +107,10 @@ that the library allows to generate QR codes.
 - [BaconQRCode `W`](https://github.com/Bacon/BaconQRCode) - QR code generator for PHP.
 
 
+
+### APIs
+
+- [ToolPipe QR Code API](https://toolpipe.dev) - Free QR code generation API. POST JSON, get PNG. No signup or API key required.
 ## Resources
 
 - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
