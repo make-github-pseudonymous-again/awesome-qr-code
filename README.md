@@ -24,6 +24,10 @@ A curated list of awesome QR code libraries, software and resources.
 
 - [Web App](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
 
+### Generators
+
+- [QRKit](https://qrkit.davrapps.dev) - Free browser-based QR code generator. Create QR codes for URLs, text, WiFi, email, vCard, and more. No signup required, runs fully client-side.
+
 ### File Transfer
 
 - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
