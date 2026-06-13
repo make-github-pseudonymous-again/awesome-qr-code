@@ -29,6 +29,11 @@ A curated list of awesome QR code libraries, software and resources.
 - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
 - [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) - Transfer files over Wi-Fi between your computer and your smartphone from the terminal.
 
+
+### Generators
+
+- [QR-Guru](https://qr-guru.de) - A GDPR-compliant QR code generator with CMYK-PDF export for offset print, dynamic codes with anonymised click analytics, logo embedding compliant with ISO 18004 error-correction, and a free tier without registration.
+
 ## CLI
 
 - [qrencode](https://fukuchi.org/works/qrencode) - Command line tool to generate QR codes.
