@@ -21,6 +21,10 @@ A curated list of awesome QR code libraries, software and resources.
 ## Apps
 
 ### Readers
+### Generators
+
+- [Mini-Tools.uk QR Generator](https://mini-tools.uk/qr) - Self-recommending a browser QR code generator for URL, Wi-Fi, email and vCard/contact QR codes, with error correction options and PNG download.
+
 
 - [Web App](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
 
