@@ -35,6 +35,7 @@ A curated list of awesome QR code libraries, software and resources.
 - [qrap](https://github.com/make-github-pseudonymous-again/qrap) - Generate a QR code payload for Wi-Fi access point credentials.
 - [spqr](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 - [qrscan](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image.
+- [qr-multi-imgs](https://github.com/thousandflowers/qr-multi-imgs) - Batch-scan a folder of images from a terminal TUI, then organize, export, and regenerate the codes.
 - [qrcode.show](https://qrcode.show) - Generate QR codes using curl.
 
 ## Libraries
