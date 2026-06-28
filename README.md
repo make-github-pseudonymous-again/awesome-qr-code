@@ -20,6 +20,8 @@ A curated list of awesome QR code libraries, software and resources.
 
 ## Apps
 
+- [CallURL](https://callurl.com/fd5irwu) - Create AI phone lines for flyers, rooms, products, assignments, events, forms, and workflows, then share them by link or scannable code.
+
 ### Readers
 
 - [Web App](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
