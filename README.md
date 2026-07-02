@@ -24,6 +24,10 @@ A curated list of awesome QR code libraries, software and resources.
 
 - [Web App](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
 
+### Generators
+
+- [Qranite](https://qranite.com) - Free in-browser generator with no signup, no watermark, and no expiry; paid dynamic short links with scan analytics.
+
 ### File Transfer
 
 - [qrcp](https://github.com/claudiodangelis/qrcp) - Transfer files over Wi-Fi from your computer to a mobile device by scanning a QR code without leaving the terminal.
