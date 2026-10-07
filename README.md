@@ -56,6 +56,7 @@ that the library allows to generate QR codes.
 
 ### JavaScript
 
+- [designyourqr `W`](https://github.com/humus1337/qr/tree/main/package) - Styled SVG codes with custom module and corner shapes, gradients, presets and logo embedding, for Node and the browser.
 - [instascan `R`](https://github.com/schmich/instascan) - HTML5 QR code scanner using your webcam.
 - [qrious `W`](https://github.com/neocotic/qrious) - Pure JavaScript library for QR code generation using canvas.
 
