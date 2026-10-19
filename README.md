@@ -12,6 +12,9 @@ A curated list of awesome QR code libraries, software and resources.
 ## Contents
 
 - [Apps](#apps)
+  - [Generators](#generators)
+  - [Readers](#readers)
+  - [File Transfer](#file-transfer)
 - [CLI](#cli)
 - [Libraries](#libraries)
 - [Resources](#resources)
@@ -19,6 +22,12 @@ A curated list of awesome QR code libraries, software and resources.
 ---
 
 ## Apps
+
+### Generators
+
+Applications for creating symbols from text and other payloads.
+
+- [ToolKnit QR Code Generator](https://toolknit.com/tools/qr-code-generator.html) - Browser-based generator for text, URLs, Wi-Fi and email, with color, size and error-correction controls and PNG export.
 
 ### Readers
 
