@@ -23,6 +23,7 @@ A curated list of awesome QR code libraries, software and resources.
 ### Readers
 
 - [Web App](https://github.com/gokulkrishh/qrcodescan.in) - A progressive web application to scan QR codes.
+- [PasteZap Scanner](https://pastezap.com/tools/qr-barcode-scanner/) - Web app that reads codes and 30+ barcode formats from the camera, images, screenshots and PDFs, entirely in the browser.
 
 ### File Transfer
 
