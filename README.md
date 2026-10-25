@@ -62,6 +62,7 @@ that the library allows to generate QR codes.
 ### TypeScript
 
 - [jsQR `R`](https://github.com/cozmo/jsQR) - A pure JavaScript QR code reading library.
+- [qr-label-sheet `W`](https://github.com/Jovceo/qr-label-sheet) - CSV to printable A4 QR label sheets: pagination, label geometry and scannability maths. Zero runtime dependencies.
 
 ### React
 
