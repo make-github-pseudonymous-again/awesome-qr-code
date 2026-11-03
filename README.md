@@ -36,6 +36,7 @@ A curated list of awesome QR code libraries, software and resources.
 - [spqr](https://github.com/make-github-pseudonymous-again/spqr) - Generate a QR code payload for initiating a SEPA transfer.
 - [qrscan](https://github.com/sayanarijit/qrscan) - Scan a QR code in the terminal using the system camera or a given image.
 - [qrcode.show](https://qrcode.show) - Generate QR codes using curl.
+- [QR Kept](https://qrkept.com/free-qr-code-api) - Free keyless HTTP API that returns an SVG from one GET request.
 
 ## Libraries
 
