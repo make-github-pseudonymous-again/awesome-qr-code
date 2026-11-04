@@ -110,6 +110,7 @@ that the library allows to generate QR codes.
 ## Resources
 
 - [zxing](https://github.com/zxing/zxing/wiki/Barcode-Contents) - QR code payload format catalog.
+- [A scratched label still scans](https://davidmashiah.com/notes/a-scratched-label-still-scans) - Why a damaged QR code still decodes: Reed–Solomon error correction over GF(256) and the four ISO/IEC 18004 error-correction levels.
 
 
 ## Contributing
