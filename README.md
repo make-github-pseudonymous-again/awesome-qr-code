@@ -66,6 +66,7 @@ that the library allows to generate QR codes.
 ### React
 
 - [qrcode.react `W`](https://github.com/zpao/qrcode.react) - A `<QRCode/>` component for use with React.
+- [qrdx `RW`](https://github.com/bucharitesh/qrdx) - React library and CLI for styled codes with frames, logos, a scan score and SVG/PNG/PDF/EPS export (MIT).
 
 ### React Native
 
