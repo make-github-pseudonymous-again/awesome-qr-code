@@ -12,6 +12,9 @@ A curated list of awesome QR code libraries, software and resources.
 ## Contents
 
 - [Apps](#apps)
+  - [Generators](#generators)
+  - [Readers](#readers)
+  - [File Transfer](#file-transfer)
 - [CLI](#cli)
 - [Libraries](#libraries)
 - [Resources](#resources)
@@ -19,6 +22,12 @@ A curated list of awesome QR code libraries, software and resources.
 ---
 
 ## Apps
+
+### Generators
+
+Browser-based tools for generating printable codes.
+
+- [QR Meadow](https://qrmeadow.com/bulk-qr-code-generator) - Browser-based static generator with scan checks, CSV batching, and printable PDF label sheets.
 
 ### Readers
 
